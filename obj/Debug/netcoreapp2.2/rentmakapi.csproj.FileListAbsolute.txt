@@ -1,0 +1,14 @@
+/Users/burakcaglayan/Projects/rentmak/rentmakapi/bin/Debug/netcoreapp2.2/rentmakapi.deps.json
+/Users/burakcaglayan/Projects/rentmak/rentmakapi/bin/Debug/netcoreapp2.2/rentmakapi.runtimeconfig.json
+/Users/burakcaglayan/Projects/rentmak/rentmakapi/bin/Debug/netcoreapp2.2/rentmakapi.runtimeconfig.dev.json
+/Users/burakcaglayan/Projects/rentmak/rentmakapi/bin/Debug/netcoreapp2.2/rentmakapi.dll
+/Users/burakcaglayan/Projects/rentmak/rentmakapi/bin/Debug/netcoreapp2.2/rentmakapi.pdb
+/Users/burakcaglayan/Projects/rentmak/rentmakapi/obj/Debug/netcoreapp2.2/rentmakapi.csprojAssemblyReference.cache
+/Users/burakcaglayan/Projects/rentmak/rentmakapi/obj/Debug/netcoreapp2.2/rentmakapi.csproj.CoreCompileInputs.cache
+/Users/burakcaglayan/Projects/rentmak/rentmakapi/obj/Debug/netcoreapp2.2/rentmakapi.RazorAssemblyInfo.cache
+/Users/burakcaglayan/Projects/rentmak/rentmakapi/obj/Debug/netcoreapp2.2/rentmakapi.RazorAssemblyInfo.cs
+/Users/burakcaglayan/Projects/rentmak/rentmakapi/obj/Debug/netcoreapp2.2/rentmakapi.AssemblyInfoInputs.cache
+/Users/burakcaglayan/Projects/rentmak/rentmakapi/obj/Debug/netcoreapp2.2/rentmakapi.AssemblyInfo.cs
+/Users/burakcaglayan/Projects/rentmak/rentmakapi/obj/Debug/netcoreapp2.2/rentmakapi.RazorTargetAssemblyInfo.cache
+/Users/burakcaglayan/Projects/rentmak/rentmakapi/obj/Debug/netcoreapp2.2/rentmakapi.dll
+/Users/burakcaglayan/Projects/rentmak/rentmakapi/obj/Debug/netcoreapp2.2/rentmakapi.pdb
